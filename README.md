@@ -6,6 +6,9 @@
 
 **Upon becoming enlightened I turned into _space_ _dust_.**
 
+In the words of arpegius vintoras:
+>Winter is coming
+
 * Epic montage
 * Cool sword
 * Way to many enemies
