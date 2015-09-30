@@ -4,11 +4,15 @@
 
 *I traveled through seven levels just to get to the mountain and become enlightened.*
 
-**Upon becoming enlightened I turned into _space dust_.**
+**Upon becoming enlightened I turned into _space_ _dust_.**
 
 * Epic montage
 * Cool sword
 * Way to many enemies
+
+- bonanas
+- fohntiem
+- walks on the beach
 
 1. Phone
   1. blue
@@ -19,7 +23,7 @@
 3. The dandy guy in space
   1. so much plot 
 
-Here's an idea: why don't we make `Hideo Kojima` to start the development developent of Zone of the **Enders 3** `now`
+Here's an idea: why don't we make `Hideo Kojima` to start the development developent of `Zone of the Enders 3` now
 
 Check this out
 
