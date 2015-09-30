@@ -10,10 +10,6 @@
 * Cool sword
 * Way to many enemies
 
-- bonanas
-- fohntiem
-- walks on the beach
-
 1. Phone
   1. blue
   2. shiny
