@@ -26,5 +26,5 @@ Check this out
 ```
 juan = deag
 mendokuse= uhh yeah
-what is that *thing*
+what is that _thing_
 ```
